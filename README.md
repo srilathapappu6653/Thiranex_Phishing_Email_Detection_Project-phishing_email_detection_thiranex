@@ -120,6 +120,9 @@ Paste an email and click "Analyze Email" to get the prediction.
 ### Confusion Matrix
 
 ![Confusion Matrix](confusion_matrix.png)
+## 📊 Model Output
+
+![Model Output](Output.png)
 
 
 ## 📈 Model Evaluation
