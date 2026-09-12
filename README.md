@@ -114,6 +114,14 @@ Then open the Streamlit URL shown in the terminal.
 
 Paste an email and click "Analyze Email" to get the prediction.
 
+
+## 📊 Model Output
+
+### Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
+
 ## 📈 Model Evaluation
 
 The model is evaluated using:
